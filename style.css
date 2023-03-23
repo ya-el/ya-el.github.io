@@ -23,7 +23,7 @@ html.dark {
   color: var(--primary-color);
 }
 
-div {
+body {
   font-family: "Heebo", sans-serif;
   display: flex;
   align-items: center;
