@@ -33,6 +33,10 @@ div {
   margin: 0;
 }
 
+footer{
+    margin-top: auto;
+}
+
 .toggle {
   background-color: var(--primary-color);
   color: var(--secondary-color);
