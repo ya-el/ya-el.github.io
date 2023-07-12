@@ -1,0 +1,45 @@
+
+.tabla, td{
+	border-style: solid;
+	border-color: #AC8887;
+	border-collapse: collapse;
+	height: 50px;
+	text-transform: uppercase;
+
+}
+
+.tablaMain{
+	
+}
+
+body{
+	font-family:  "Lucida Console", "Courier New", monospace;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+#grad1 {
+  
+  background-color: red; /* For browsers that do not support gradients */
+  background-image: linear-gradient(to right, #eecda3, #ef629f);
+}
+
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
+}
+
+#example2 {
+  border: 1px solid;
+  padding: 10px;
+  box-shadow: 5px 10px #888888;
+}
