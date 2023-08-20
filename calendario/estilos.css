@@ -26,15 +26,6 @@ body{
   background-image: linear-gradient(to right, #eecda3, #ef629f);
 }
 
-.footer {
-   position: fixed;
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: red;
-   color: white;
-   text-align: center;
-}
 
 #example2 {
   border: 1px solid;
