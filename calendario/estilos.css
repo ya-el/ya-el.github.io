@@ -8,7 +8,9 @@
 
 }
 
-
+td{
+  width: 120px;
+}
 
 body{
 	font-family:  "Lucida Console", "Courier New", monospace;
