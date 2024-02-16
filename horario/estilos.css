@@ -5,6 +5,7 @@
 	border-collapse: collapse;
 	height: 50px;
 	text-transform: uppercase;
+  table-layout: fixed;
 
 }
 
@@ -24,8 +25,7 @@ body{
 
 #grad1 {
   
-  background-color: red; /* For browsers that do not support gradients */
-  background-image: linear-gradient(to right, #eecda3, #ef629f);
+  background-color: beige;
 }
 
 
